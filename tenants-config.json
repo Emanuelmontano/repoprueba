@@ -1,0 +1,9 @@
+[
+  {
+    "tenant" : "TenantOne",
+    "dataSourceClassName": "org.postgresql.ds.PGSimpleDataSource",
+    "url": "jdbc:postgresql://localhost:5432/tenant1",
+    "user": "postgres",
+    "password": "1234"
+  }
+]
